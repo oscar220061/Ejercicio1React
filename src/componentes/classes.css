@@ -1,0 +1,17 @@
+.form{
+    text-align: center;
+    border: 2px solid;
+    width: 280px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+}
+.input-invalid{
+    background-color: #ff2626;
+    border-radius: 5px;
+
+}
+.input-valid{
+    background-color: #6eff90;
+    border-radius: 5px;
+}
